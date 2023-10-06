@@ -19,7 +19,7 @@ function authenticate($username, $password) {
     // Replace this with your actual authentication logic
     // Example: Check against a database of users and their hashed passwords
     // If the credentials are correct, return true; otherwise, return false
-    if ($username === "admin123" && $password === "FizzyPurple!") {
+    if ($username === "admin123" && $password === "beckham123!") {
         return true;
     } else {
         return false;
